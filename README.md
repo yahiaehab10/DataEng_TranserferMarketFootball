@@ -24,7 +24,7 @@ Visualizations and statistical analyses were performed to answer research questi
 
 - Dr. Nada Sharaf
 - Dr. Ali Salem
-- [Your Name]
+- Yahia Ehab
 
 ## Project Structure
 
