@@ -14,17 +14,19 @@ In Milestone 2, the focus was on data integration and analysis. The dataset, sou
 
 ### Data Integration
 
-The dataset integration involved merging information from different CSV files, including Competitions.csv, Games.csv, Clubs.csv, Players.csv, and Appearances.csv. The analysis considered variables such as goals, assists, yellow cards, red cards, and minutes played.
+The dataset integration involved merging information from different CSV files, including Competitions.csv, Games.csv, Clubs.csv, Players.csv, and Appearances.csv. The analysis considered variables such as goals, assists, market value and position.
 
 ### Analysis
 
-Visualizations and statistical analyses were performed to answer research questions related to player performance. Notable insights included the correlation between minutes played and the frequency of yellow and red cards. Additionally, a concentration of red card incidents was observed between 45 and 60 minutes.
+1. Visualizations and statistical analyses were performed to answer research questions related to the countries with the most attendance in different seasons across the year. Notable insights included the correlation between the top European countries (Germany, Spain, England, France, and Italy) consistently attract more fans during specific season .
+
+2. The analysis on football player performance revealed a clear link between market value and goal contributions across positions. Attackers, with higher goal contributions, commanded higher market values, simplifying decision-making for clubs in recruitment and investment.
 
 ## Contributors
 
 - Dr. Nada Sharaf
 - Dr. Ali Salem
-- [Your Name]
+- Yahia Ehab
 
 ## Project Structure
 
